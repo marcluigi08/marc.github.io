@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> About us </title>
+</head>
+<body>
+	<a href="index.html"><center><img src="images/head.jpg" width= "500" length= "500"/></center></a>
+<p align="center"><i>Hi there! Thank you so much for visiting my website. Im Marc luigi Ricasata, the owner of this store, this website is inspired of my auntie that who loves clothes
+<br>I was born and raised in the Philippines and i am currently living in cavite
+<br> This store was made since October 16 2020. Luminous is about selling fashionable outfits for women and men.</i></p>
+</body>
+</html>

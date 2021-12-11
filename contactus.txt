@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Contact us </title>
+</head>
+<body>
+	<a href="index.html"><center><img src="images/head.jpg" width= "500" length= "500"/></center></a>
+<p align="center"><i>For booking inquiries or collaborations please contact us through:
+<br>marcricasata@gmail.com
+<br>uniqlothes@gmail.com
+</i></p>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>collections</title>
+</head>
+
+<body>
+	<center>
+		<img src="images/winter8.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="images/winter2.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="images/winter3.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="images/winter4.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="images/winter6.jpg" width= "500" length= "500"/>
+		<br>
+		
+
+	</center>
+	<br>
+	<br>
+	<a href="index.html"><center><img src="images/head.jpg" width= "200" length= "200"/></center><center>HOME</center></a>
+</body>
+</html>
